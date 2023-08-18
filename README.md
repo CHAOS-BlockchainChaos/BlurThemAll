@@ -1,2 +1,1 @@
-# test_blurmi
--test test_blurmi
+## JS Script to Blur unwanted accounts on X ( formerly twitter )
